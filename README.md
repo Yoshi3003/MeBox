@@ -1,4 +1,6 @@
 MeBox
 =====
 
-MeBox Android Software Application
+MeBox Software Application
+
+Project Manager: Programmer: Jitrapon Tiachunpun
